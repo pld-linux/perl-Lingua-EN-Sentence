@@ -25,7 +25,8 @@ Summary(zh_CN):	Lingua::EN::Sentence Perl Ä£¿é
 Name:		perl-Lingua-EN-Sentence
 Version:	0.25
 Release:	2
-License:	GPL or Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	4a846acfcb6eedd1c1557fc7f79f034d
