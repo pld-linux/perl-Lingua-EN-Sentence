@@ -1,6 +1,7 @@
 #
 # Conditional build:
 # _without_tests - do not perform "make test"
+#
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Lingua
 %define		pnam	EN-Sentence
@@ -23,7 +24,7 @@ Summary(uk):	Модуль для Perl Lingua::EN::Sentence
 Summary(zh_CN):	Lingua::EN::Sentence Perl дё©И
 Name:		perl-Lingua-EN-Sentence
 Version:	0.23
-Release:	1
+Release:	2
 License:	(enter GPL/LGPL/BSD/BSD-like/Artistic/other license name here)
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
