@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	Lingua
-%define		pnam	EN-Sentence
+%define	pdir	Lingua
+%define	pnam	EN-Sentence
 Summary:	Lingua::EN::Sentence Perl module
 Summary(cs):	Modul Lingua::EN::Sentence pro Perl
 Summary(da):	Perlmodul Lingua::EN::Sentence
