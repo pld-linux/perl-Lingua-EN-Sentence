@@ -14,7 +14,7 @@ Summary(fr):	Module Perl Lingua::EN::Sentence
 Summary(it):	Modulo di Perl Lingua::EN::Sentence
 Summary(ja):	Lingua::EN::Sentence Perl ¥â¥¸¥å¡¼¥ë
 Summary(ko):	Lingua::EN::Sentence ÆÞ ¸ðÁÙ
-Summary(no):	Perlmodul Lingua::EN::Sentence
+Summary(nb):	Perlmodul Lingua::EN::Sentence
 Summary(pl):	Modu³ Perla Lingua::EN::Sentence
 Summary(pt):	Módulo de Perl Lingua::EN::Sentence
 Summary(pt_BR):	Módulo Perl Lingua::EN::Sentence
