@@ -24,7 +24,7 @@ Summary(uk):	Модуль для Perl Lingua::EN::Sentence
 Summary(zh_CN):	Lingua::EN::Sentence Perl дё©И
 Name:		perl-Lingua-EN-Sentence
 Version:	0.25
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
