@@ -33,8 +33,10 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
+Lingua::EN::Sentence Perl module.
 
 %description -l pl
+Modu³ Perla Lingua::EN::Sentence.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
