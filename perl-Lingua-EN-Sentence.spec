@@ -6,22 +6,22 @@
 %define		pdir	Lingua
 %define		pnam	EN-Sentence
 Summary:	Lingua::EN::Sentence Perl module
-Summary(cs):	Modul Lingua::EN::Sentence pro Perl
-Summary(da):	Perlmodul Lingua::EN::Sentence
-Summary(de):	Lingua::EN::Sentence Perl Modul
-Summary(es):	MÛdulo de Perl Lingua::EN::Sentence
-Summary(fr):	Module Perl Lingua::EN::Sentence
-Summary(it):	Modulo di Perl Lingua::EN::Sentence
-Summary(ja):	Lingua::EN::Sentence Perl •‚•∏•Â°º•Î
-Summary(ko):	Lingua::EN::Sentence ∆ﬁ ∏¡Ÿ
-Summary(nb):	Perlmodul Lingua::EN::Sentence
-Summary(pl):	Modu≥ Perla Lingua::EN::Sentence
-Summary(pt):	MÛdulo de Perl Lingua::EN::Sentence
-Summary(pt_BR):	MÛdulo Perl Lingua::EN::Sentence
-Summary(ru):	Ìœƒ’Ãÿ ƒÃ— Perl Lingua::EN::Sentence
-Summary(sv):	Lingua::EN::Sentence Perlmodul
-Summary(uk):	Ìœƒ’Ãÿ ƒÃ— Perl Lingua::EN::Sentence
-Summary(zh_CN):	Lingua::EN::Sentence Perl ƒ£øÈ
+Summary(cs.UTF-8):   Modul Lingua::EN::Sentence pro Perl
+Summary(da.UTF-8):   Perlmodul Lingua::EN::Sentence
+Summary(de.UTF-8):   Lingua::EN::Sentence Perl Modul
+Summary(es.UTF-8):   M√≥dulo de Perl Lingua::EN::Sentence
+Summary(fr.UTF-8):   Module Perl Lingua::EN::Sentence
+Summary(it.UTF-8):   Modulo di Perl Lingua::EN::Sentence
+Summary(ja.UTF-8):   Lingua::EN::Sentence Perl „É¢„Ç∏„É•„Éº„É´
+Summary(ko.UTF-8):   Lingua::EN::Sentence ÌéÑ Î™®Ï§Ñ
+Summary(nb.UTF-8):   Perlmodul Lingua::EN::Sentence
+Summary(pl.UTF-8):   Modu≈Ç Perla Lingua::EN::Sentence
+Summary(pt.UTF-8):   M√≥dulo de Perl Lingua::EN::Sentence
+Summary(pt_BR.UTF-8):   M√≥dulo Perl Lingua::EN::Sentence
+Summary(ru.UTF-8):   –ú–æ–¥—É–ª—å –¥–ª—è Perl Lingua::EN::Sentence
+Summary(sv.UTF-8):   Lingua::EN::Sentence Perlmodul
+Summary(uk.UTF-8):   –ú–æ–¥—É–ª—å –¥–ª—è Perl Lingua::EN::Sentence
+Summary(zh_CN.UTF-8):   Lingua::EN::Sentence Perl Ê®°Âùó
 Name:		perl-Lingua-EN-Sentence
 Version:	0.25
 Release:	3
@@ -38,8 +38,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Lingua::EN::Sentence Perl module.
 
-%description -l pl
-Modu≥ Perla Lingua::EN::Sentence.
+%description -l pl.UTF-8
+Modu≈Ç Perla Lingua::EN::Sentence.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
