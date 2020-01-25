@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Lingua
 %define		pnam	EN-Sentence
 Summary:	Lingua::EN::Sentence Perl module - splitting text into sentences
