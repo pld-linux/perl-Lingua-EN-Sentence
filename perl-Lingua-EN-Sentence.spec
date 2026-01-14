@@ -8,7 +8,7 @@ Summary:	Lingua::EN::Sentence Perl module - splitting text into sentences
 Summary(pl.UTF-8):	Moduł Perla Lingua::EN::Sentence - podział tekstu na zdania
 Name:		perl-Lingua-EN-Sentence
 Version:	0.34
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
